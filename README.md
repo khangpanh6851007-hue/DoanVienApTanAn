@@ -12,8 +12,8 @@ Hệ thống quản lý đoàn viên thanh niên của **Chi Đoàn Ấp Tân An
 ## 🔐 Tài Khoản Quản Trị (Bí Thư)
 
 Sử dụng tài khoản hệ thống mặc định để kiểm tra toàn bộ quyền hạn quản trị viên:
-- **Tài khoản:** `KhangPanh68`
-- **Mật khẩu:** `51007Panh`
+- **Tài khoản:** `*********
+- **Mật khẩu:** `********`
 
 ## 📱 Hướng Dẫn Sử Dụng & Triển Khai
 
